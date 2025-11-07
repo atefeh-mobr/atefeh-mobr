@@ -17,12 +17,18 @@ My research focuses on recommender systems, multi agent reinforcement learning, 
 
 ## Publications
 
-{% include base_path %}
-<ul class="archive">
-{% assign recent = site.publications | sort: 'date' | reverse %}
-{% for post in recent limit: 2 %}
-  <li>{% include archive-single.html %}</li>
+{% assign recent = site.publications | sort: 'date' | reverse | slice: 0, 2 %}
+<div class="pubs-compact">
+{% for p in recent %}
+  <div class="pub">
+    <div class="title"><a href="{{ p.url | relative_url }}">{{ p.title }}</a></div>
+    <div class="meta">
+      {{ p.authors }} · <em>{{ p.venue }}</em>{% if p.date %}, {{ p.date | date: "%Y" }}{% endif %}
+      {% if p.paperurl %} · <a href="{{ p.paperurl }}">PDF</a>{% endif %}
+    </div>
+  </div>
 {% endfor %}
-</ul>
+</div>
 
-<p><a href="{{ '/publications/' | relative_url }}">See all publications →</a></p>
+<p><a href="{{ '/publications/' | relative_url }}">See all →</a></p>
+

@@ -26,7 +26,7 @@ repository               : "atefeh-mobr/atefeh-mobr.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "atefeh.jpg"
   name             : "Atefeh Mollabagher"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. student, ECE @ UC San Diego. I study the feedback loop between recommendation systems and reactive users."

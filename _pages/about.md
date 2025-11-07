@@ -30,5 +30,5 @@ My research focuses on recommender systems, multi agent reinforcement learning, 
 
 ## Teaching
 
-- **TA, ECE 250 – Probability & Random Processes (Fall 2025), UC San Diego.** Led discussions, rubrics, and grading.
-- **TA, ECE 153 – Probability & Random Processes for Engineers (Spring 2025).** Led discussions, rubrics, and grading.
+- **TA, ECE 250 – Random Processes (Fall 2025), UC San Diego.** Led discussions, rubrics, and grading.
+- **TA, ECE 153 – Probability & Random Processes for Engineers (Spring 2025), UC San Diego.** Led discussions, rubrics, and grading.

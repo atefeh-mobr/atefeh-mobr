@@ -12,8 +12,5 @@ Before that, I received my B.Sc. in Electrical Engineering from the
 [University of Tehran](https://ece.ut.ac.ir/en).
 My research focuses on recommender systems, reinforcement learning, and opinion dynamics.
 
-- **Papers:** ACC 2025 (accepted); TCNS journal submission (under review)  
-- **Interests:** stochastic processes, control, fairness in ML, RecSys dynamics
 
-
-📄 [CV](/cv/) · 📚 [Publications](/publications/) · ✉️ atefeh@ucsd.edu
+✉️ atefeh@ucsd.edu

@@ -3,7 +3,7 @@ title: "Reactive Users vs. Recommendation Systems: An Adaptive Policy to Manage 
 collection: publications
 permalink: /publication/tcns-adaptive-policy
 date: 2025-02-01
-venue: "IEEE Transactions on Control of Network Systems (under review)"
+venue: "Under review"
 authors: "A. Mollabagher, P. Naghizadeh"
 paperurl: "https://arxiv.org/pdf/2508.13473"
 ---

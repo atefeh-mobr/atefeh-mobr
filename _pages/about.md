@@ -31,5 +31,12 @@ My research focuses on recommender systems, multi agent reinforcement learning, 
 {% endfor %}
 </div>
 
-<p><a href="{{ '/publications/' | relative_url }}">See all →</a></p>
+## Ongoing projects
 
+- **Multi-Agent RL for Recommender–User Interaction.** Building a framework where both RS and users are adaptive agents; studying drift, fairness–accuracy trade-offs, and platform interventions.
+- **Recommendation–User Feedback Loops.** Modeling closed-loop dynamics and mitigation policies (deterministic + stochastic) with convergence and robustness analysis.
+
+## Teaching
+
+- **TA, ECE 250 – Probability & Random Processes (Fall 2025), UC San Diego.** Led discussions, rubrics, and grading.
+- **TA, ECE 153 – Probability & Random Processes for Engineers (Spring 2025).** Led discussions, rubrics, and grading.

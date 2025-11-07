@@ -5,7 +5,7 @@ excerpt: "ECE Ph.D. student at UC San Diego"
 toc: false
 ---
 
-Hi! I’m **Atefeh Mollabagher**, a Ph.D. student in Electrical and Computer Engineering at
+Hi! I am **Atefeh Mollabagher**, a Ph.D. student in Electrical and Computer Engineering at
 [UC San Diego](https://ucsd.edu), advised by
 [Prof. Parinaz Naghizadeh](https://parinazn.com).
 Before that, I received my B.Sc. in Electrical Engineering from the
